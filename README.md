@@ -8,6 +8,7 @@ Frameworks: Node.js, Vue.js
 Version Control: Git, GitHub
 Tools: Docker, Webpack, Arduino IDE
 Other: REST APIs, GraphQL
+
 🌱 Currently Learning
 I'm currently exploring advanced topics in web development, focusing on microservices architecture and cloud-native technologies like Kubernetes and AWS services. I am always eager to learn new things and stay up-to-date with the latest tech trends!
 
